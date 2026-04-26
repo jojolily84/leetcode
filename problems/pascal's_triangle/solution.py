@@ -12,4 +12,4 @@ class Solution:
                 else:
                     row.append(result[i-1][j-1]+result[i-1][j])
             result.append(row)
-        return result
+        return result            
