@@ -3,9 +3,8 @@ class Solution:
         """
         Do not return anything, modify s in-place instead.
         """
-        n = len(s)
         left = 0
-        right = n-1
+        right = len(s)-1
         while left < right:
             temp = s[left]
             s[left] = s[right]
@@ -13,4 +12,3 @@ class Solution:
             left += 1
             right -= 1
         return s
-            
