@@ -20,7 +20,8 @@ class Solution:
                 if (m + n) % 2 == 1:
                     return float(max(L1, L2))
                 else:
-                    return (max(L1,L2) + min(R1, R2)) / 2.0 #Python 3 中 / 永遠回傳 float，不需要額外轉型。
+                    #Python 3 中 / 永遠回傳 float，不需要額外轉型。
+                    return (max(L1,L2) + min(R1, R2)) / 2.0
             elif L1 > R2:
                 hi = i - 1 # i 太大，往左縮
             else:
