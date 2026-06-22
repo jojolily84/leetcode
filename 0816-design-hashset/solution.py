@@ -20,7 +20,6 @@ class MyHashSet:
     def contains(self, key: int) -> bool:
         idx = self._hash(key)
         return key in self.buckets[idx]
-        
 
 
 # Your MyHashSet object will be instantiated and called as such:
