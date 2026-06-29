@@ -1,12 +1,9 @@
 class Solution:
     def intersect(self, nums1: List[int], nums2: List[int]) -> List[int]:
-        #統計兩個 array 各自的頻率
-        count1 = Counter(nums1)
-        count2 = Counter(nums2)
+        count = Counter(nums1)  # 統計 nums1 各元素頻率
         result = []
-        for num in count1:
-            if num in count2:
-                freq = min(count1[num], count2[num])
-                result.extend([num] * freq) #extend:逐一加入每個 element
+        for num in nums2:
+            if count[num] > 0:
+                result.append(num)
+                count[num] -= 1  # 消耗一次配額
         return result
-
