@@ -6,7 +6,7 @@ class Solution:
         freq_map = Counter(nums) #nums = [1,1,1,2,2,3]->{1:3, 2:2, 3:1}
         buckets = [[] for _ in range(len(nums) + 1)] # index 代表頻率，長度 n+1 確保 freq=n 時不越界
 
-        for num, freq in freq_map.items():
+        for num, freq in freq_map.items():  #回傳所有(num, freq)
             buckets[freq].append(num)
         
         result = []
