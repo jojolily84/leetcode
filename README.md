@@ -17,12 +17,15 @@
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | md | String, Stack | Easy |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | md | Array, Binary Search | Medium |
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | md | Array, Binary Search | Medium |
+| 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | md | Array, Binary Search | Easy |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | md | Array, Hash Table, Matrix | Medium |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | md | Array, Hash Table, String, Sorting | Medium |
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | md | Math, Recursion | Medium |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | md | Math, Binary Search | Easy |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | md | Array, Two Pointers, Sorting | Medium |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | md | Array, Two Pointers, Sorting | Easy |
+| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | md | Stack, Tree, Depth-First Search, Binary Tree | Easy |
+| 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | md | Hash Table, Depth-First Search, Breadth-First Search, Graph Theory | Medium |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | md | Array, Bit Manipulation | Easy |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | md | Array, Math, Stack | Medium |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | md | Array, Binary Search | Medium |
@@ -38,6 +41,7 @@
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | md | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect | Medium |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | md | Array, Hash Table, Sorting | Easy |
 | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | md | Array, Hash Table, Sliding Window | Easy |
+| 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | md | Stack, Design, Queue | Easy |
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | md | Binary Search, Interactive | Easy |
 | 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | md | Math, Dynamic Programming, Breadth-First Search | Medium |
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | md | Array, Two Pointers, Binary Search, Bit Manipulation | Medium |
