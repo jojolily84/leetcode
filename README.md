@@ -41,6 +41,7 @@
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | md | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect | Medium |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | md | Array, Hash Table, Sorting | Easy |
 | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | md | Array, Hash Table, Sliding Window | Easy |
+| 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | md | Stack, Design, Queue | Easy |
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | md | Stack, Design, Queue | Easy |
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | md | Binary Search, Interactive | Easy |
 | 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | md | Math, Dynamic Programming, Breadth-First Search | Medium |
@@ -52,9 +53,11 @@
 | 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | md | Binary Search, Interactive | Easy |
 | 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | md | Array, Hash Table, Math, Design, Randomized | Medium |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | md | Hash Table, String, Queue, Counting | Easy |
+| 394 | [Decode String](https://leetcode.com/problems/decode-string/) | md | String, Stack, Recursion | Medium |
 | 410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | md | Array, Binary Search, Dynamic Programming, Greedy, Prefix Sum | Hard |
 | 454 | [4Sum II](https://leetcode.com/problems/4sum-ii/) | md | Array, Hash Table | Medium |
 | 511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) | md | Database | Easy |
+| 542 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | md | Array, Dynamic Programming, Breadth-First Search, Matrix | Medium |
 | 577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus/) | md | Database | Easy |
 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | md | Database | Easy |
 | 586 | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | md | Database | Easy |
@@ -67,6 +70,7 @@
 | 705 | [Design HashSet](https://leetcode.com/problems/design-hashset/) | md | Array, Hash Table, Linked List, Design, Hash Function | Easy |
 | 706 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | md | Array, Hash Table, Linked List, Design, Hash Function | Easy |
 | 719 | [Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/) | md | Array, Two Pointers, Binary Search, Sorting | Hard |
+| 733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | md | Array, Depth-First Search, Breadth-First Search, Matrix | Easy |
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | md | Array, Stack, Monotonic Stack | Medium |
 | 744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | md | Array, Binary Search | Easy |
 | 752 | [Open the Lock](https://leetcode.com/problems/open-the-lock/) | md | Array, Hash Table, String, Breadth-First Search | Medium |
