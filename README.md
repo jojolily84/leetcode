@@ -27,6 +27,8 @@
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | md | Stack, Tree, Depth-First Search, Binary Tree | Easy |
 | 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | md | Hash Table, Depth-First Search, Breadth-First Search, Graph Theory | Medium |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | md | Array, Bit Manipulation | Easy |
+| 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | md | Stack, Tree, Depth-First Search, Binary Tree | Easy |
+| 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | md | Stack, Tree, Depth-First Search, Binary Tree | Easy |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | md | Array, Math, Stack | Medium |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | md | Array, Binary Search | Medium |
 | 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | md | Array, Binary Search | Hard |
@@ -75,6 +77,7 @@
 | 744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | md | Array, Binary Search | Easy |
 | 752 | [Open the Lock](https://leetcode.com/problems/open-the-lock/) | md | Array, Hash Table, String, Breadth-First Search | Medium |
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | md | Hash Table, String | Easy |
+| 841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | md | Depth-First Search, Breadth-First Search, Graph Theory | Medium |
 | 912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | md | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Merge Sort, Bucket Sort, Radix Sort, Counting Sort | Medium |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | md | Array, Two Pointers, Sorting | Easy |
 | 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | md | Array, Two Pointers | Easy |
