@@ -27,8 +27,11 @@
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | py | Stack, Tree, Depth-First Search, Binary Tree | Easy |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | py | Tree, Depth-First Search, Breadth-First Search, Binary Tree | Easy |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | py | Tree, Depth-First Search, Breadth-First Search, Binary Tree | Easy |
+| 105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | py | Array, Hash Table, Divide and Conquer, Tree, Binary Tree | Medium |
 | 106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | py | Array, Hash Table, Divide and Conquer, Tree, Binary Tree | Medium |
 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | py | Tree, Depth-First Search, Breadth-First Search, Binary Tree | Easy |
+| 116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | py | Linked List, Tree, Depth-First Search, Breadth-First Search, Binary Tree | Medium |
+| 117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | py | Linked List, Tree, Depth-First Search, Breadth-First Search, Binary Tree | Medium |
 | 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | py | Hash Table, Depth-First Search, Breadth-First Search, Graph Theory | Medium |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | py | Array, Bit Manipulation | Easy |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | py | Stack, Tree, Depth-First Search, Binary Tree | Easy |
@@ -68,6 +71,7 @@
 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | sql | Database | Easy |
 | 586 | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | sql | Database | Easy |
 | 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | sql | Database | Easy |
+| 596 | [Classes With at Least 5 Students](https://leetcode.com/problems/classes-with-at-least-5-students/) | sql | Database | Easy |
 | 599 | [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) | py | Array, Hash Table, String | Easy |
 | 622 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | py | Array, Linked List, Design, Queue | Medium |
 | 652 | [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/) | py | Hash Table, Tree, Depth-First Search, Binary Tree | Medium |
