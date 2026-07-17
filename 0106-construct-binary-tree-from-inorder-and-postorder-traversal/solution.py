@@ -15,6 +15,7 @@ class Solution:
                 return None
             
             # postorder最後一個元素永遠是當前這整棵樹的 root
+            #在目前這一段 postorder 範圍裡，最後一個值就是這一段所對應的 subtree 的 root
             root_val = postorder[self.post_idx]
             root = TreeNode(root_val)
             self.post_idx -= 1  #指標往前移一格
@@ -26,4 +27,4 @@ class Solution:
             root.left = build(left, idx_map[root_val] - 1)
             
             return root
-        return build(0, len(postorder) - 1)
+        return build(0, len(inorder) - 1)
