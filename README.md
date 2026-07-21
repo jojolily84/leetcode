@@ -52,6 +52,7 @@
 | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | py | Array, Hash Table, Sliding Window | Easy |
 | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | py | Stack, Design, Queue | Easy |
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | py | Stack, Design, Queue | Easy |
+| 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | py | Tree, Depth-First Search, Binary Tree | Medium |
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | py | Binary Search, Interactive | Easy |
 | 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | py | Math, Dynamic Programming, Breadth-First Search | Medium |
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | py | Array, Two Pointers, Binary Search, Bit Manipulation | Medium |
