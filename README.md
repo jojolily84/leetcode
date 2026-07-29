@@ -56,6 +56,7 @@
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | py | Binary Search, Interactive | Easy |
 | 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | py | Math, Dynamic Programming, Breadth-First Search | Medium |
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | py | Array, Two Pointers, Binary Search, Bit Manipulation | Medium |
+| 297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | py | String, Tree, Depth-First Search, Breadth-First Search, Design, Binary Tree | Hard |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | py | Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect | Medium |
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | py | Array, Hash Table, Two Pointers, Binary Search, Sorting | Easy |
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | py | Array, Hash Table, Two Pointers, Binary Search, Sorting | Easy |
