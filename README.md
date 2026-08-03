@@ -14,15 +14,15 @@
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | py | Array, Hash Table | Easy |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | py | Hash Table, String, Sliding Window | Medium |
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | py | Array, Binary Search, Divide and Conquer | Hard |
-| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | py | String, Stack | Easy |
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | py | String, Stack, Bracket Sequences | Easy |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | py | Array, Binary Search | Medium |
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | py | Array, Binary Search | Medium |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | py | Array, Binary Search | Easy |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | py | Array, Hash Table, Matrix | Medium |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | py | Array, Hash Table, String, Sorting | Medium |
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | py | Math, Recursion | Medium |
-| 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | py | Math, Binary Search | Easy |
-| 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | py | Array, Two Pointers, Sorting | Medium |
+| 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | py | Math, Binary Search, Newton's Method | Easy |
+| 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | py | Array, Two Pointers, Sorting, Quicksort, Bubble Sort | Medium |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | py | Array, Two Pointers, Sorting | Easy |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | py | Stack, Tree, Depth-First Search, Binary Tree | Easy |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | py | Tree, Depth-First Search, Breadth-First Search, Binary Tree | Easy |
@@ -41,21 +41,21 @@
 | 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | py | Array, Binary Search | Hard |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | py | Stack, Design | Medium |
 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | py | Array, Binary Search | Medium |
-| 164 | [Maximum Gap](https://leetcode.com/problems/maximum-gap/) | py | Array, Sorting, Bucket Sort, Radix Sort | Medium |
+| 164 | [Maximum Gap](https://leetcode.com/problems/maximum-gap/) | py | Array, Sorting, Bucket Sort, Radix Sort, Pigeonhole Principle | Medium |
 | 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | py | Database | Easy |
 | 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | sql | Database | Easy |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | py | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix | Medium |
-| 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | py | Hash Table, Math, Two Pointers | Easy |
+| 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | py | Hash Table, Math, Two Pointers, Floyd's Cycle Finding Algorithm | Easy |
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | py | Hash Table, String | Easy |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | py | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect | Medium |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | py | Array, Hash Table, Sorting | Easy |
 | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | py | Array, Hash Table, Sliding Window | Easy |
 | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | py | Stack, Design, Queue | Easy |
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | py | Stack, Design, Queue | Easy |
-| 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | py | Tree, Depth-First Search, Binary Tree | Medium |
+| 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | py | Tree, Depth-First Search, Binary Tree, Binary Lifting, Lowest Common Ancestor | Medium |
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | py | Binary Search, Interactive | Easy |
-| 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | py | Math, Dynamic Programming, Breadth-First Search | Medium |
-| 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | py | Array, Two Pointers, Binary Search, Bit Manipulation | Medium |
+| 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | py | Math, Dynamic Programming, Breadth-First Search, Knapsack Problem, Complete Knapsack | Medium |
+| 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | py | Array, Two Pointers, Binary Search, Bit Manipulation, Pigeonhole Principle, Floyd's Cycle Finding Algorithm | Medium |
 | 297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | py | String, Tree, Depth-First Search, Breadth-First Search, Design, Binary Tree | Hard |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | py | Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect | Medium |
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | py | Array, Hash Table, Two Pointers, Binary Search, Sorting | Easy |
@@ -85,7 +85,7 @@
 | 733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | py | Array, Depth-First Search, Breadth-First Search, Matrix | Easy |
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | py | Array, Stack, Monotonic Stack | Medium |
 | 744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | py | Array, Binary Search | Easy |
-| 752 | [Open the Lock](https://leetcode.com/problems/open-the-lock/) | py | Array, Hash Table, String, Breadth-First Search | Medium |
+| 752 | [Open the Lock](https://leetcode.com/problems/open-the-lock/) | py | Array, Hash Table, String, Breadth-First Search, Bidirectional Search | Medium |
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | py | Hash Table, String | Easy |
 | 841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | py | Depth-First Search, Breadth-First Search, Graph Theory | Medium |
 | 912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | py | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Merge Sort, Bucket Sort, Radix Sort, Counting Sort | Medium |
