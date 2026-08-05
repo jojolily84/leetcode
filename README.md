@@ -25,6 +25,7 @@
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | py | Array, Two Pointers, Sorting, Quicksort, Bubble Sort | Medium |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | py | Array, Two Pointers, Sorting | Easy |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | py | Stack, Tree, Depth-First Search, Binary Tree | Easy |
+| 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | py | Tree, Depth-First Search, Binary Search Tree, Binary Tree | Medium |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | py | Tree, Depth-First Search, Breadth-First Search, Binary Tree | Easy |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | py | Tree, Depth-First Search, Breadth-First Search, Binary Tree | Easy |
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | py | Array, Hash Table, Divide and Conquer, Tree, Binary Tree | Medium |
@@ -42,6 +43,7 @@
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | py | Stack, Design | Medium |
 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | py | Array, Binary Search | Medium |
 | 164 | [Maximum Gap](https://leetcode.com/problems/maximum-gap/) | py | Array, Sorting, Bucket Sort, Radix Sort, Pigeonhole Principle | Medium |
+| 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | py | Stack, Tree, Design, Binary Search Tree, Binary Tree, Iterator | Medium |
 | 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | py | Database | Easy |
 | 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | sql | Database | Easy |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | py | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix | Medium |
@@ -78,6 +80,7 @@
 | 622 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | py | Array, Linked List, Design, Queue | Medium |
 | 652 | [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/) | py | Hash Table, Tree, Depth-First Search, Binary Tree | Medium |
 | 658 | [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | py | Array, Two Pointers, Binary Search, Sliding Window, Sorting, Heap (Priority Queue) | Medium |
+| 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | py | Tree, Binary Search Tree, Binary Tree | Easy |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | py | Array, Binary Search | Easy |
 | 705 | [Design HashSet](https://leetcode.com/problems/design-hashset/) | py | Array, Hash Table, Linked List, Design, Hash Function | Easy |
 | 706 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | py | Array, Hash Table, Linked List, Design, Hash Function | Easy |
