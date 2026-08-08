@@ -75,7 +75,7 @@
 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | sql | Database | Easy |
 | 586 | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | sql | Database | Easy |
 | 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | sql | Database | Easy |
-| 596 | [Classes With at Least 5 Students](https://leetcode.com/problems/classes-with-at-least-5-students/) | py | Database | Easy |
+| 596 | [Classes With at Least 5 Students](https://leetcode.com/problems/classes-with-at-least-5-students/) | sql | Database | Easy |
 | 599 | [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) | py | Array, Hash Table, String | Easy |
 | 622 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | py | Array, Linked List, Design, Queue | Medium |
 | 652 | [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/) | py | Hash Table, Tree, Depth-First Search, Binary Tree | Medium |
