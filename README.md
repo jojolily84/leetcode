@@ -56,6 +56,7 @@
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | py | Stack, Design, Queue | Easy |
 | 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | py | Tree, Depth-First Search, Binary Tree, Binary Lifting, Lowest Common Ancestor | Medium |
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | py | Binary Search, Interactive | Easy |
+| 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | py | Math, Dynamic Programming, Breadth-First Search, Knapsack Problem, Complete Knapsack | Medium |
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | py | Array, Two Pointers, Binary Search, Bit Manipulation, Pigeonhole Principle, Floyd's Cycle Finding Algorithm | Medium |
 | 297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | py | String, Tree, Depth-First Search, Breadth-First Search, Design, Binary Tree | Hard |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | py | Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect | Medium |
