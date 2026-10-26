@@ -68,6 +68,7 @@
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | py | Hash Table, String, Queue, Counting | Easy |
 | 394 | [Decode String](https://leetcode.com/problems/decode-string/) | py | String, Stack, Recursion | Medium |
 | 410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | py | Array, Binary Search, Dynamic Programming, Greedy, Prefix Sum | Hard |
+| 450 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | py | Tree, Binary Search Tree, Binary Tree | Medium |
 | 454 | [4Sum II](https://leetcode.com/problems/4sum-ii/) | py | Array, Hash Table | Medium |
 | 511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) | sql | Database | Easy |
 | 542 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | py | Array, Dynamic Programming, Breadth-First Search, Matrix | Medium |
