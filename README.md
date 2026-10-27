@@ -98,7 +98,6 @@
 | 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | py | Array, Two Pointers | Easy |
 | 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | py | Array, Sorting | Easy |
 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | py | Array, Math | Easy |
-| 2094 | [Finding 3-Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers/) | py | Array, Hash Table, Recursion, Sorting, Enumeration | Easy |
 | 2343 | [Query Kth Smallest Trimmed Number](https://leetcode.com/problems/query-kth-smallest-trimmed-number/) | py | Array, String, Divide and Conquer, Sorting, Heap (Priority Queue), Radix Sort, Quickselect | Medium |
 | 2595 | [Number of Even and Odd Bits](https://leetcode.com/problems/number-of-even-and-odd-bits/) | py | Bit Manipulation | Easy |
 | 3232 | [Find if Digit Game Can Be Won](https://leetcode.com/problems/find-if-digit-game-can-be-won/) | py | Array, Math | Easy |
