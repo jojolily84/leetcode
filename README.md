@@ -45,7 +45,7 @@
 | 164 | [Maximum Gap](https://leetcode.com/problems/maximum-gap/) | md | Array, Sorting, Bucket Sort, Radix Sort, Pigeonhole Principle | Medium |
 | 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | md | Stack, Tree, Design, Binary Search Tree, Binary Tree, Iterator | Medium |
 | 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | md | Database | Easy |
-| 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | md | Database | Easy |
+| 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | sql | Database | Easy |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | md | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix | Medium |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | md | Hash Table, Math, Two Pointers, Floyd's Cycle Finding Algorithm | Easy |
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | md | Hash Table, String | Easy |
@@ -70,13 +70,13 @@
 | 410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | md | Array, Binary Search, Dynamic Programming, Greedy, Prefix Sum | Hard |
 | 450 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | md | Tree, Binary Search Tree, Binary Tree | Medium |
 | 454 | [4Sum II](https://leetcode.com/problems/4sum-ii/) | md | Array, Hash Table | Medium |
-| 511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) | md | Database | Easy |
+| 511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) | sql | Database | Easy |
 | 542 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | md | Array, Dynamic Programming, Breadth-First Search, Matrix | Medium |
-| 577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus/) | md | Database | Easy |
-| 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | md | Database | Easy |
-| 586 | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | md | Database | Easy |
-| 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | md | Database | Easy |
-| 596 | [Classes With at Least 5 Students](https://leetcode.com/problems/classes-with-at-least-5-students/) | md | Database | Easy |
+| 577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus/) | sql | Database | Easy |
+| 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | sql | Database | Easy |
+| 586 | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | sql | Database | Easy |
+| 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | sql | Database | Easy |
+| 596 | [Classes With at Least 5 Students](https://leetcode.com/problems/classes-with-at-least-5-students/) | sql | Database | Easy |
 | 599 | [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) | md | Array, Hash Table, String | Easy |
 | 622 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | md | Array, Linked List, Design, Queue | Medium |
 | 652 | [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/) | md | Hash Table, Tree, Depth-First Search, Binary Tree | Medium |
